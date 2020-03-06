@@ -38,5 +38,5 @@ function IDcryptor( $string, $action = 'encrypt' ) {
 
 }
 
-
+$number = 123456;
 echo IDcryptor($number);
